@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: 
     guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/Romance.unity
-    guid: 4309f79a47efd8d46ab0506fc47fa433
+    path: Assets/Scenes/Main Menu.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Level.unity
+    guid: 26520014206e60b47b628c5b2f1c66b8
   m_configObjects: {}
